@@ -1,7 +1,6 @@
 - 👋 Hello, I’m @DanielTShea
 
-I am
-Self-motivated and detail-oriented web developer with one year of coding experience and nine years of professional experience focused in project management. 
+I am a self-motivated and detail-oriented web developer with one year of coding experience and nine years of professional experience focused in project management. 
 Through my comprehensive education in web development, I have learned to connect the front- and back-end of web applications, build technology infrastructure, 
 and create a user interface that enhances the user experience and company success. Drawing on my extensive project management experience, I can effectively plan, 
 manage, and execute technical requirements to meet product owner’s web development needs. My unique career trajectory and combined professional experiences 
